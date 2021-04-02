@@ -10,6 +10,7 @@ const (
 	TJS Currency="TJS"
 	USD Currency="USD"
 	RUB Currency="RUB"
+  EUR Currency="EUR"
 )
 type PAN string
 
